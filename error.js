@@ -1,6 +1,6 @@
 window.addEventListener("keydown", (e) => {
 document.write(`
-<link rel="shortcut icon" href = "https://playentry.org/uploads/discuss/2l/tc/image/2ltcq26rkkxju9d51jth9a642cfqmvip.png" />
+<link rel="shortcut icon" href = "https://raw.githack.com/simonj-entry/error/main/logo_error.svg" />
 <title>error</title>
 <h1>404 not found</h1>
 `)
